@@ -1,0 +1,41 @@
+<!DOCTYPE collection SYSTEM "collection.dtd">
+
+<collection>
+
+    <description>Recipe Of Nutitional Food</description>
+
+    <recipe>
+
+        <title>Chicken Curry</title>
+
+        <ingredient name="Chicken"/>
+
+        <ingredient name="water" amount="4" unit="cup"/>
+
+        <ingredient name="Onion" amount="100" unit="Gram"/>
+
+        <ingredient name="Tommato" amount="100" unit="Gram"/>
+
+        <ingredient name="Food Oil" amount="200" unit="ml"/>
+	<ingredient name="Salt" amount="10" unit="Gram"/>
+
+         <preparation>
+
+            <step>Put Food oil and heat for 1 Minutes.</step>
+
+            <step>Put the Chicken Meat and Close it for 5 Minutes.</step>
+
+            <step>Put water and close again for 5 Minutes.</step>
+
+            <step>Put salt, onion, and Tommato.</step>
+
+            <step>Add water again and boil it for 5 Minutes.</step>
+
+        </preparation>
+
+	<comment>Very good.</comment>
+        <nutrition calories="500" carbohydrates="100" alcohol="0" fat="50"/>
+
+    </recipe>
+
+</collection>

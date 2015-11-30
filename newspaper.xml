@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+
+<NEWSPAPER>
+
+    <ARTICLE AUTHOR="Sachin" DATE="11/30/2015">
+
+	<HEADLINE>India Block the Border.</HEADLINE>
+
+        <BYLINE>Sachin</BYLINE>
+
+        <LEAD>Kantiput</LEAD>
+
+        <BODY>After the india bloack the borade to Nepal, many problem had arrived in Nepal</BODY>
+
+        <NOTES>Verrified</NOTES>
+
+    </ARTICLE>
+
+
+    <ARTICLE AUTHOR="Bidish" DATE="11/30/2015" EDITION="45">
+
+        <HEADLINE>Nepal is defeated in WCC.</HEADLINE>
+
+        <BYLINE>Bidish</BYLINE>
+
+        <LEAD>Kantipur</LEAD>
+        <BODY>Nepali cricket team has been defeated in the World Cricket Championship Match..</BODY>
+
+        <NOTES>Verified</NOTES>
+
+    </ARTICLE>
+
+    <ARTICLE AUTHOR="Anil" DATE="11/30/2015" EDITION="45">
+
+        <HEADLINE>Nepali Cricket Team Played Friendly Match With Pakistan.</HEADLINE>
+
+        <BYLINE>Anilr</BYLINE>
+
+        <LEAD>Kantiput</LEAD>
+
+        <BODY>Nepali Cricket Team has played a friendly match with Pakistan although Nepal lost the match, it's great experience with play with pakistan </BODY>
+
+        <NOTES>Verified</NOTES>
+
+    </ARTICLE>
+
+</NEWSPAPER>
+
+
